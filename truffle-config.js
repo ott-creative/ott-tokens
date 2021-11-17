@@ -47,6 +47,8 @@ module.exports = {
     goerli: {
       provider: infuraProvider("goerli"),
       network_id: 5,
+      // skipDryRun: true,
+      // gas: 29870700,
     },
   },
   mocha: {
