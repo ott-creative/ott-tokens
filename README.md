@@ -1,6 +1,6 @@
-# centre-tokens
+# ott-tokens
 
-Fiat tokens on the [CENTRE](https://centre.io) network.
+Fiat tokens.
 
 ## Setup
 
@@ -10,7 +10,7 @@ Requirements:
 - Yarn
 
 ```
-$ git clone git@github.com:centrehq/centre-tokens.git
+$ git clone git@github.com:ott-creative/ott-tokens.git
 $ cd centre-tokens
 $ npm i -g yarn       # Install yarn if you don't already have it
 $ yarn install        # Install dependencies
