@@ -1,7 +1,7 @@
 {
-  "name": "centre-tokens",
+  "name": "ott-tokens",
   "version": "1.0.0",
-  "description": "Fiat and non-fiat tokens part of the CENTRE network.",
+  "description": "Fiat and non-fiat tokens part of OTT.",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -23,15 +23,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/centrehq/centre-tokens.git"
+    "url": "git+https://github.com/ott-creative/ott-tokens.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/centrehq/centre-tokens/issues"
+    "url": "https://github.com/ott-creative/ott-tokens/issues"
   },
-  "homepage": "https://github.com/centrehq/centre-tokens#readme",
+  "homepage": "https://github.com/ott-creative/ott-tokens#readme",
   "dependencies": {},
   "devDependencies": {
     "@openzeppelin/contracts": "^3.1.0",
